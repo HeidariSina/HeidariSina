@@ -1,4 +1,4 @@
-### Hi there I'm Sina ⚡
+### Hi there I'm Sina 😊
 
 <!--
 **HeidariSina/HeidariSina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
