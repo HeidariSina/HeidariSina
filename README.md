@@ -2,7 +2,7 @@
 I'm Developer and CyberSecurity Engineer and So Many Thing
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Heidarisina&show_icons=true&theme=dracula&hide=stars,commits,prs,contribs" alt="SinaHeidari" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Heidarisina&show_icons=true&theme=dracula&hide=issues" alt="SinaHeidari" />
 </div>
 
 <div align="center">
