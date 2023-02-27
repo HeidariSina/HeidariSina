@@ -8,4 +8,6 @@ I'm Developer and CyberSecurity Engineer and So Many Thing
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Heidarisina&show_icons=true&theme=dracula)" alt="SinaHeidari" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&theme=dracula)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heidarisina&show_icons=true&theme=dracula)
