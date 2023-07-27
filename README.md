@@ -1,5 +1,5 @@
 ### Hi there I'm Sina 😊
-I'm M.Sc. Student Electronic Engineer at university of Siegen But i love programming and developing
+I'm M.Sc. Student in Electronic Engineer field at university of Siegen But i love programming and developing
 
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Heidarisina&show_icons=true&theme=dracula" alt="SinaHeidari" />
