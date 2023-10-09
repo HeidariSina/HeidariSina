@@ -1,4 +1,4 @@
-<p  align="center"> <font size="4"> Hi there I'm Sina 😊</font> </p>
+<p  align="center"> <font size="7"> Hi there I'm Sina 😊</font> </p>
 <p>I'm M.Sc. Student in Electronic Engineer field at university of Siegen in Germany But i love programming and developing </p>
 <p>Ich bin Masterstudent im Fachbereich Elektrotechnik an der Universität Siegen in Deutschland.. Aber ich liebe das Programmieren und Entwickeln </p>
 
